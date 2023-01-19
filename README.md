@@ -1,4 +1,4 @@
-# JAVASCRIPT AVANZADO II |  
+# JAVASCRIPT AVANZADO II 
 
 ## 📒 Temas de la clase
 
